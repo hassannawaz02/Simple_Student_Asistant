@@ -53,12 +53,6 @@ The assistant reads your input, detects if it’s an academic question, and send
 
 Feel free to fork and improve the assistant with more features like:
 
-Roman Urdu detection
-
-Voice input/output
-
-GUI version using Tkinter or PyQt
-
 ---
 
 ## 📜 License
