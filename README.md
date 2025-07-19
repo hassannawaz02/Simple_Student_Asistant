@@ -21,7 +21,7 @@ An intelligent, terminal-based chatbot designed to help students with study-rela
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/hassannawaz02/smart-student-assistant.git
+git clone https://github.com/hassannawaz02/Smart-Student-Assistant.git
 
 cd smart-student-assistant
 ```
